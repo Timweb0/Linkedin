@@ -736,6 +736,7 @@ a{
   .navbar-center ul li a{
     padding-right: 0;
     margin: 5px;
+    padding: 0;
   }
   .nav-profile-img{
     width: 30px;
