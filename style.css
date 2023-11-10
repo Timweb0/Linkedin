@@ -720,7 +720,7 @@ a{
 }
 /* 
 -------------media query for smaller screen------------ */
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 650px){
   .search-box{
     background: transparent;
     width: auto;
@@ -732,6 +732,9 @@ a{
   }
   .navbar-center ul li a span{
     display: none;
+  }
+  .navbar-center ul li a img{
+    width: 20px;
   }
   .navbar-center ul li a{
     padding-right: 0;
